@@ -10,8 +10,19 @@ Signup for your own Docker account
 
 # QR code link to my GitHub Profile
 
-![alt text](<dockers .png>)
+![QR code of my github ](qr_codes/QRCode_20241103213341.png)
 
-# Log inmage of QR creation
+# Logs image of QR creation
 
-![alt text](docker.png)
+![Log screenshot showing the QR code creation ](qr_codes/QRCode_20241103213121.png)
+
+# Lesson Video
+1.  Scaling and Backend Software Engineering
+2.  Docker and Cloud Computing Intro
+3.  Readings / Tutorials - No, really you should read these
+4.  Containerization vs. Virtualization
+5.  Official docker Getting Started - Go over all the sections
+6.  Entrypoint vs. CMD vs. RUN
+7.  Make QR with Python
+8.  Make Dockerfile
+9.  Args and Environment Variables in Docker
