@@ -14,7 +14,7 @@ Signup for your own Docker account
 
 # Logs image of QR creation
 
-![Log screenshot showing the QR code creation ](qr_codes/QRCode_20241103213121.png)
+![Log screenshot showing the QR code creation ](log_image/docker.png)
 
 # Lesson Video
 1.  Scaling and Backend Software Engineering
